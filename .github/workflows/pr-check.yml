@@ -5,7 +5,7 @@ on:
 
 jobs:
   entry_check:
-    name: "Entry Check"
+    name: "Entry candidate check"
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
